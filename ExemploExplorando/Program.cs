@@ -2,39 +2,45 @@
 using System.ComponentModel;
 using System.Globalization;
 
-static void Main()
-    {
-        string linhaDeNomes = Console.ReadLine();
 
-        // Separa os nomes e remove espaços extras
-        List<string> nomes = linhaDeNomes
-            .Split(',')
-            .Select(nome => nome.Trim())
-            .ToList();
 
-        char letraFiltro = char.Parse(Console.ReadLine());
 
-        // TODO: Filtre a lista de nomes que começam com a letra (ignore maiúsculas/minúsculas):
-        List<string> filtrados = new List<string>();
-        foreach (string nome in nomes)
-        {
-            if (nome.StartsWith(letraFiltro))
-            {
-                filtrados.Add(nome);
-            }
-        }
 
-        // TODO: Retorne o resultado e implemente a condição if para retornar 'Nenhum nome encontrado' e exiba o resultado: 
+
+
+// static void Main()
+//     {
+//         string linhaDeNomes = Console.ReadLine();
+
+//         // Separa os nomes e remove espaços extras
+//         List<string> nomes = linhaDeNomes
+//             .Split(',')
+//             .Select(nome => nome.Trim())
+//             .ToList();
+
+//         char letraFiltro = char.Parse(Console.ReadLine());
+
+//         // TODO: Filtre a lista de nomes que começam com a letra (ignore maiúsculas/minúsculas):
+//         List<string> filtrados = new List<string>();
+//         foreach (string nome in nomes)
+//         {
+//             if (nome.StartsWith(letraFiltro))
+//             {
+//                 filtrados.Add(nome);
+//             }
+//         }
+
+//         // TODO: Retorne o resultado e implemente a condição if para retornar 'Nenhum nome encontrado' e exiba o resultado: 
         
         
-        else
-        {
-            foreach (var nome in filtrados)
-            {
-                Console.WriteLine(nome);
-            }
-        }
-    }
+//         else
+//         {
+//             foreach (var nome in filtrados)
+//             {
+//                 Console.WriteLine(nome);
+//             }
+//         }
+//     }
 
 
 
