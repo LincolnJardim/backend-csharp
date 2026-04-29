@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WZB55dnhRoI=",
+  "dgSpecHash": "fnjxakFPa8g=",
   "success": true,
   "projectFilePath": "C:\\Users\\linco\\Desktop\\backend-csharp\\ExemploExplorando\\ExemploExplorando.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\linco\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

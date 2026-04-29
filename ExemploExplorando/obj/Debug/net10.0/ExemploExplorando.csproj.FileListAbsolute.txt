@@ -13,3 +13,6 @@ C:\Users\linco\Desktop\backend-csharp\ExemploExplorando\obj\Debug\net10.0\refint
 C:\Users\linco\Desktop\backend-csharp\ExemploExplorando\obj\Debug\net10.0\ExemploExplorando.pdb
 C:\Users\linco\Desktop\backend-csharp\ExemploExplorando\obj\Debug\net10.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\linco\Desktop\backend-csharp\ExemploExplorando\obj\Debug\net10.0\ref\ExemploExplorando.dll
+C:\Users\linco\Desktop\backend-csharp\ExemploExplorando\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\linco\Desktop\backend-csharp\ExemploExplorando\obj\Debug\net10.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\linco\Desktop\backend-csharp\ExemploExplorando\obj\Debug\net10.0\ExemploE.B7F01285.Up2Date
